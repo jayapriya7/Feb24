@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17117" started-at="2020-01-31T06:19:46Z" finished-at="2020-01-31T06:20:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17117" started-at="2020-01-31T06:19:46Z" finished-at="2020-01-31T06:20:03Z">
+      <class name="jan31pack.demo1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:jan31pack.demo1@feb3fa]" name="beforeTest" is-config="true" duration-ms="10737" started-at="2020-01-31T06:19:46Z" finished-at="2020-01-31T06:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:jan31pack.demo1@feb3fa]" name="f" duration-ms="1893" started-at="2020-01-31T06:19:57Z" finished-at="2020-01-31T06:19:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:jan31pack.demo1@feb3fa]" name="afterTest" is-config="true" duration-ms="4448" started-at="2020-01-31T06:19:59Z" finished-at="2020-01-31T06:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- jan31pack.demo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
